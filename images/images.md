@@ -45,3 +45,5 @@ Avoid including non-image files (e.g., PDFs, Word docs, ZIPs) in this folder.
 From your HTML file, reference images with **relative paths**:
 ```html
 <img src="images/photo.jpg" alt="Sample photo">
+
+<img src="soccer_ball_close_up_adobestock_163399622_400.jpg" alt="Soccer-Ball">
